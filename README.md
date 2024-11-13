@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate data enthusiast making the exci
 - 🎓 **Education**:
   - MCA (Master of Computer Applications)
   - BCA (Bachelor of Computer Applications)
-- 🔄 **Career Shift**: After years of experience in content moderation, I found my passion for data and analytics. Now, I'm focused on leveraging my analytical skills to derive valuable insights from data and build data-driven solutions.
+- 🔄 **Career Shift**: After 5 years of experience in content moderation, I found my passion for data and analytics. Now, I'm focused on leveraging my analytical skills to derive valuable insights from data and build data-driven solutions.
 
 ### 🛠️ Skills
 - **Programming & Data Analysis**: Python (Pandas, NumPy), SQL
