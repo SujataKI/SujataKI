@@ -28,7 +28,7 @@ I believe my experience as a moderator taught me the importance of detail-orient
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [linkedin.com/in/sujataki](#)
-- **Email**: bablikumari82913@gmail.com
+- **Email**: bablikumari82193@gmail.com
 
 ---
 
